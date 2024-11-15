@@ -137,13 +137,10 @@ a {
 .button {
     transition-duration:0.4s;
     border: none;
-    color: lightblue;
-    padding: 60px 256px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
     font-size: 16px;
-    margin: 80px 40px;
     cursor: pointer;
     display: flex;
     width: 90%;
@@ -154,7 +151,7 @@ a {
     align-items: center;
     flex-direction: column;
 }
-.button1 {background-color: lightblue;}
+.button1 {background-color: #112222;}
 .button:hover {
     background-color: #463E3F;
     color: lightblue;

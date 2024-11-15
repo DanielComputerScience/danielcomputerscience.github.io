@@ -72,15 +72,12 @@ top {
 .box {
     display: flex;
     width: 90%;
-    
     opacity: 0.7;
     background-color: #112222;
     border-radius: 10px;
     margin: 0 auto;
     align-items: center;
     flex-direction: column;
-    
-    
 }
 .box embed {
     max-width: 15%;
@@ -148,9 +145,8 @@ a {
     font-size: 16px;
     margin: 80px 40px;
     cursor: pointer;
-	display: flex;
+    display: flex;
     width: 90%;
-    
     opacity: 0.7;
     background-color: #112222;
     border-radius: 10px;
